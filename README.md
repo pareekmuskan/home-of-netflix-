@@ -1,6 +1,7 @@
 # home-of-netflix-
 I had designed the webpage of netflix using HTML , CSS and JS.
-[19:00, 6/9/2023] K.Shreya: <header class="showcase">
+[19:00, 6/9/2023] 
+<header class="showcase">
 <div class="showcase-top">
 <img src="https://i.ibb.co/r5krrdz/logo.png" alt="" />
 <a href="#" class="btn btn-rounded">Sign In</a>
